@@ -4,11 +4,11 @@ a project for the purpose of learning Plotly Dash
 
 ## Version
 
-- Python: 
+- Python: 3.9
 
 ## Requirement
 
-- Python
+- Python 3.9
 
 ## Appendix
 
